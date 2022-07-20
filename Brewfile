@@ -10,12 +10,16 @@ brew "coreutils"
 brew "ffmpeg"
 # Distributed revision control system
 brew "git"
+# Improved top (interactive process viewer)
+brew "htop"
 # Terminal based YouTube player and downloader
 brew "mps-youtube"
 # Media player based on MPlayer and mplayer2
 brew "mpv"
 # Fast, highly customisable system info script
 brew "neofetch"
+# Organize software neatly under a single directory tree (e.g. /usr/local)
+brew "stow"
 # Display directories as trees (with optional color/HTML output)
 brew "tree"
 # Vi 'workalike' with many additional features
@@ -68,6 +72,8 @@ cask "notion"
 cask "onedrive"
 # Video chat, voice call and instant messaging application
 cask "skype"
+# Video game digital distribution service
+cask "steam"
 # Web browser focusing on security
 cask "tor-browser"
 # Open-source BitTorrent client
