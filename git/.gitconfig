@@ -1,3 +1,5 @@
 [user]
 	name = Minimal_Engine
 	email = dawidrzeszutek@gmail.com
+[core]
+	excludesfile = /Users/dawid/.gitignore
