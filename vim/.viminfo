@@ -1,0 +1,425 @@
+# Diese viminfo-Datei wurde von Vim 9.0 generiert.
+# Sie können sie verändern, wenn Sie vorsichtig vorgehen!
+
+# Viminfo version
+|1,4
+
+# Wert von 'encoding', als diese Datei geschrieben wurde
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Letztes Suchmuster:
+~MSle0~/n.cht?
+
+# Letzte ersetzte Zeichenkette:
+$
+
+# Befehlszeile Geschichte (neueste bis älteste):
+:q
+|2,0,1658255467,,"q"
+:help register
+|2,0,1658255440,,"help register"
+:i
+|2,0,1658168269,,"i"
+:wq
+|2,0,1652215158,,"wq"
+:reg
+|2,0,1652214985,,"reg"
+:qw
+|2,0,1651001063,,"qw"
+:w
+|2,0,1650918475,,"w"
+:! ls
+|2,0,1650918412,,"! ls"
+:!
+|2,0,1650918405,,"!"
+:colorscheme desert
+|2,0,1650918295,,"colorscheme desert"
+:colorscheme zellner
+|2,0,1650918285,,"colorscheme zellner"
+:colorscheme
+|2,0,1650918261,,"colorscheme"
+:set number
+|2,0,1650917852,,"set number"
+:WQ
+|2,0,1650562827,,"WQ"
+:q!
+|2,0,1650476648,,"q!"
+:!ls
+|2,0,1650399384,,"!ls"
+:Q
+|2,0,1649967710,,"Q"
+
+# Suchausdruck Geschichte (neueste bis älteste):
+? @$
+|2,1,1652626072,,"@$"
+?/n.cht?
+|2,1,1652214713,47,"n.cht?"
+?/n...t
+|2,1,1652213509,47,"n...t"
+?/n**t
+|2,1,1652213488,47,"n**t"
+?/nicht
+|2,1,1652213468,47,"nicht"
+
+# Ausdruck Geschichte (neueste bis älteste):
+
+# Eingabe-Zeile Geschichte (neueste bis älteste):
+
+# Debug-Zeile Geschichte (neueste bis älteste):
+
+# Register:
+""0	CHAR	0
+	 Hier kann Ihr Text stehen 
+|3,1,0,0,1,0,1652626072," Hier kann Ihr Text stehen "
+"1	LINE	0
+	Das ist der Visualmode
+|3,0,1,1,1,0,1652212801,"Das ist der Visualmode"
+"2	LINE	0
+	Das ist der Visualmode
+|3,0,2,1,1,0,1652212800,"Das ist der Visualmode"
+"3	LINE	0
+	Das ist der Visualmode
+|3,0,3,1,1,0,1652212799,"Das ist der Visualmode"
+"4	LINE	0
+	Das ist der Visualmode
+|3,0,4,1,1,0,1652212799,"Das ist der Visualmode"
+"5	LINE	0
+	Das ist der Visualmode
+|3,0,5,1,1,0,1652212798,"Das ist der Visualmode"
+"6	LINE	0
+	Das ist der Visualmode
+|3,0,6,1,1,0,1652212796,"Das ist der Visualmode"
+"7	LINE	0
+	hier kann ich auch noch weiter schreiben
+|3,0,7,1,1,0,1652212795,"hier kann ich auch noch weiter schreiben"
+"8	LINE	0
+	Das ist der Visualmode
+|3,0,8,1,1,0,1652212794,"Das ist der Visualmode"
+"9	LINE	0
+	
+|3,0,9,1,1,0,1652212681,""
+"-	CHAR	0
+	 Hier kann Ihr Text stehen 
+|3,0,36,0,1,0,1652212836," Hier kann Ihr Text stehen "
+
+# Datei-Markierungen:
+'0  7  0  ~/coding/freecodecamp/.git/MERGE_MSG
+|4,48,7,0,1658168319,"~/coding/freecodecamp/.git/MERGE_MSG"
+'1  8  0  ~/Applications
+|4,49,8,0,1652626076,"~/Applications"
+'2  56  10  ~/coding/readme.md
+|4,50,56,10,1652215158,"~/coding/readme.md"
+'3  8  7  ~/readme.md
+|4,51,8,7,1651001065,"~/readme.md"
+'4  8  7  ~/readme.md
+|4,52,8,7,1651001065,"~/readme.md"
+'5  2  0  ~/.vimrc
+|4,53,2,0,1650998782,"~/.vimrc"
+'6  2  0  ~/.vimrc
+|4,54,2,0,1650998782,"~/.vimrc"
+'7  5  0  ~/readme.md
+|4,55,5,0,1650998743,"~/readme.md"
+'8  6  0  ~/readme.md
+|4,56,6,0,1650998743,"~/readme.md"
+'9  5  0  ~/readme.md
+|4,57,5,0,1650998743,"~/readme.md"
+
+# Jumplist (neueste zuerst):
+-'  7  0  ~/coding/freecodecamp/.git/MERGE_MSG
+|4,39,7,0,1658168319,"~/coding/freecodecamp/.git/MERGE_MSG"
+-'  7  0  ~/coding/freecodecamp/.git/MERGE_MSG
+|4,39,7,0,1658168319,"~/coding/freecodecamp/.git/MERGE_MSG"
+-'  1  0  ~/coding/freecodecamp/.git/MERGE_MSG
+|4,39,1,0,1658168219,"~/coding/freecodecamp/.git/MERGE_MSG"
+-'  1  0  ~/coding/freecodecamp/.git/MERGE_MSG
+|4,39,1,0,1658168219,"~/coding/freecodecamp/.git/MERGE_MSG"
+-'  8  0  ~/Applications
+|4,39,8,0,1652626076,"~/Applications"
+-'  8  0  ~/Applications
+|4,39,8,0,1652626076,"~/Applications"
+-'  8  0  ~/Applications
+|4,39,8,0,1652626076,"~/Applications"
+-'  8  0  ~/Applications
+|4,39,8,0,1652626076,"~/Applications"
+-'  56  10  ~/coding/readme.md
+|4,39,56,10,1652215158,"~/coding/readme.md"
+-'  56  10  ~/coding/readme.md
+|4,39,56,10,1652215158,"~/coding/readme.md"
+-'  56  10  ~/coding/readme.md
+|4,39,56,10,1652215158,"~/coding/readme.md"
+-'  56  10  ~/coding/readme.md
+|4,39,56,10,1652215158,"~/coding/readme.md"
+-'  56  10  ~/coding/readme.md
+|4,39,56,10,1652215158,"~/coding/readme.md"
+-'  56  10  ~/coding/readme.md
+|4,39,56,10,1652215158,"~/coding/readme.md"
+-'  56  10  ~/coding/readme.md
+|4,39,56,10,1652215158,"~/coding/readme.md"
+-'  56  10  ~/coding/readme.md
+|4,39,56,10,1652215158,"~/coding/readme.md"
+-'  41  10  ~/coding/readme.md
+|4,39,41,10,1652214727,"~/coding/readme.md"
+-'  41  10  ~/coding/readme.md
+|4,39,41,10,1652214727,"~/coding/readme.md"
+-'  41  10  ~/coding/readme.md
+|4,39,41,10,1652214727,"~/coding/readme.md"
+-'  41  10  ~/coding/readme.md
+|4,39,41,10,1652214727,"~/coding/readme.md"
+-'  41  10  ~/coding/readme.md
+|4,39,41,10,1652214727,"~/coding/readme.md"
+-'  41  10  ~/coding/readme.md
+|4,39,41,10,1652214727,"~/coding/readme.md"
+-'  41  10  ~/coding/readme.md
+|4,39,41,10,1652214727,"~/coding/readme.md"
+-'  41  10  ~/coding/readme.md
+|4,39,41,10,1652214727,"~/coding/readme.md"
+-'  49  0  ~/coding/readme.md
+|4,39,49,0,1652214722,"~/coding/readme.md"
+-'  49  0  ~/coding/readme.md
+|4,39,49,0,1652214722,"~/coding/readme.md"
+-'  49  0  ~/coding/readme.md
+|4,39,49,0,1652214722,"~/coding/readme.md"
+-'  49  0  ~/coding/readme.md
+|4,39,49,0,1652214722,"~/coding/readme.md"
+-'  49  0  ~/coding/readme.md
+|4,39,49,0,1652214722,"~/coding/readme.md"
+-'  49  0  ~/coding/readme.md
+|4,39,49,0,1652214722,"~/coding/readme.md"
+-'  49  0  ~/coding/readme.md
+|4,39,49,0,1652214722,"~/coding/readme.md"
+-'  49  0  ~/coding/readme.md
+|4,39,49,0,1652214722,"~/coding/readme.md"
+-'  38  0  ~/coding/readme.md
+|4,39,38,0,1652214713,"~/coding/readme.md"
+-'  38  0  ~/coding/readme.md
+|4,39,38,0,1652214713,"~/coding/readme.md"
+-'  38  0  ~/coding/readme.md
+|4,39,38,0,1652214713,"~/coding/readme.md"
+-'  38  0  ~/coding/readme.md
+|4,39,38,0,1652214713,"~/coding/readme.md"
+-'  38  0  ~/coding/readme.md
+|4,39,38,0,1652214713,"~/coding/readme.md"
+-'  38  0  ~/coding/readme.md
+|4,39,38,0,1652214713,"~/coding/readme.md"
+-'  38  0  ~/coding/readme.md
+|4,39,38,0,1652214713,"~/coding/readme.md"
+-'  38  0  ~/coding/readme.md
+|4,39,38,0,1652214713,"~/coding/readme.md"
+-'  46  0  ~/coding/readme.md
+|4,39,46,0,1652213509,"~/coding/readme.md"
+-'  46  0  ~/coding/readme.md
+|4,39,46,0,1652213509,"~/coding/readme.md"
+-'  46  0  ~/coding/readme.md
+|4,39,46,0,1652213509,"~/coding/readme.md"
+-'  46  0  ~/coding/readme.md
+|4,39,46,0,1652213509,"~/coding/readme.md"
+-'  46  0  ~/coding/readme.md
+|4,39,46,0,1652213509,"~/coding/readme.md"
+-'  46  0  ~/coding/readme.md
+|4,39,46,0,1652213509,"~/coding/readme.md"
+-'  46  0  ~/coding/readme.md
+|4,39,46,0,1652213509,"~/coding/readme.md"
+-'  46  0  ~/coding/readme.md
+|4,39,46,0,1652213509,"~/coding/readme.md"
+-'  68  9  ~/coding/readme.md
+|4,39,68,9,1652213468,"~/coding/readme.md"
+-'  68  9  ~/coding/readme.md
+|4,39,68,9,1652213468,"~/coding/readme.md"
+-'  68  9  ~/coding/readme.md
+|4,39,68,9,1652213468,"~/coding/readme.md"
+-'  68  9  ~/coding/readme.md
+|4,39,68,9,1652213468,"~/coding/readme.md"
+-'  68  9  ~/coding/readme.md
+|4,39,68,9,1652213468,"~/coding/readme.md"
+-'  68  9  ~/coding/readme.md
+|4,39,68,9,1652213468,"~/coding/readme.md"
+-'  68  9  ~/coding/readme.md
+|4,39,68,9,1652213468,"~/coding/readme.md"
+-'  68  9  ~/coding/readme.md
+|4,39,68,9,1652213468,"~/coding/readme.md"
+-'  39  0  ~/coding/readme.md
+|4,39,39,0,1652213135,"~/coding/readme.md"
+-'  39  0  ~/coding/readme.md
+|4,39,39,0,1652213135,"~/coding/readme.md"
+-'  39  0  ~/coding/readme.md
+|4,39,39,0,1652213135,"~/coding/readme.md"
+-'  39  0  ~/coding/readme.md
+|4,39,39,0,1652213135,"~/coding/readme.md"
+-'  39  0  ~/coding/readme.md
+|4,39,39,0,1652213135,"~/coding/readme.md"
+-'  39  0  ~/coding/readme.md
+|4,39,39,0,1652213135,"~/coding/readme.md"
+-'  39  0  ~/coding/readme.md
+|4,39,39,0,1652213135,"~/coding/readme.md"
+-'  39  0  ~/coding/readme.md
+|4,39,39,0,1652213135,"~/coding/readme.md"
+-'  12  0  ~/coding/readme.md
+|4,39,12,0,1652211821,"~/coding/readme.md"
+-'  12  0  ~/coding/readme.md
+|4,39,12,0,1652211821,"~/coding/readme.md"
+-'  12  0  ~/coding/readme.md
+|4,39,12,0,1652211821,"~/coding/readme.md"
+-'  12  0  ~/coding/readme.md
+|4,39,12,0,1652211821,"~/coding/readme.md"
+-'  12  0  ~/coding/readme.md
+|4,39,12,0,1652211821,"~/coding/readme.md"
+-'  12  0  ~/coding/readme.md
+|4,39,12,0,1652211821,"~/coding/readme.md"
+-'  12  0  ~/coding/readme.md
+|4,39,12,0,1652211821,"~/coding/readme.md"
+-'  12  0  ~/coding/readme.md
+|4,39,12,0,1652211821,"~/coding/readme.md"
+-'  1  0  ~/coding/readme.md
+|4,39,1,0,1652211704,"~/coding/readme.md"
+-'  1  0  ~/coding/readme.md
+|4,39,1,0,1652211704,"~/coding/readme.md"
+-'  1  0  ~/coding/readme.md
+|4,39,1,0,1652211704,"~/coding/readme.md"
+-'  1  0  ~/coding/readme.md
+|4,39,1,0,1652211704,"~/coding/readme.md"
+-'  1  0  ~/coding/readme.md
+|4,39,1,0,1652211704,"~/coding/readme.md"
+-'  1  0  ~/coding/readme.md
+|4,39,1,0,1652211704,"~/coding/readme.md"
+-'  1  0  ~/coding/readme.md
+|4,39,1,0,1652211704,"~/coding/readme.md"
+-'  1  0  ~/coding/readme.md
+|4,39,1,0,1652211704,"~/coding/readme.md"
+-'  8  7  ~/readme.md
+|4,39,8,7,1651001065,"~/readme.md"
+-'  8  7  ~/readme.md
+|4,39,8,7,1651001065,"~/readme.md"
+-'  8  7  ~/readme.md
+|4,39,8,7,1651001065,"~/readme.md"
+-'  8  7  ~/readme.md
+|4,39,8,7,1651001065,"~/readme.md"
+-'  8  7  ~/readme.md
+|4,39,8,7,1651001065,"~/readme.md"
+-'  8  7  ~/readme.md
+|4,39,8,7,1651001065,"~/readme.md"
+-'  8  7  ~/readme.md
+|4,39,8,7,1651001065,"~/readme.md"
+-'  8  7  ~/readme.md
+|4,39,8,7,1651001065,"~/readme.md"
+-'  8  7  ~/readme.md
+|4,39,8,7,1651001065,"~/readme.md"
+-'  8  7  ~/readme.md
+|4,39,8,7,1651001065,"~/readme.md"
+-'  8  7  ~/readme.md
+|4,39,8,7,1651001065,"~/readme.md"
+-'  8  7  ~/readme.md
+|4,39,8,7,1651001065,"~/readme.md"
+-'  8  7  ~/readme.md
+|4,39,8,7,1651001065,"~/readme.md"
+-'  8  7  ~/readme.md
+|4,39,8,7,1651001065,"~/readme.md"
+-'  8  7  ~/readme.md
+|4,39,8,7,1651001065,"~/readme.md"
+-'  8  7  ~/readme.md
+|4,39,8,7,1651001065,"~/readme.md"
+-'  4  0  ~/readme.md
+|4,39,4,0,1650998807,"~/readme.md"
+-'  4  0  ~/readme.md
+|4,39,4,0,1650998807,"~/readme.md"
+-'  4  0  ~/readme.md
+|4,39,4,0,1650998807,"~/readme.md"
+
+# Geschichte der Markierungen innerhalb von Dateien (neueste zuerst):
+
+> /opt/homebrew/Cellar/vim/9.0.0050/share/vim/vim90/doc/sponsor.txt
+	*	1658255464	0
+	"	1	61
+
+> ~/coding/freecodecamp/.git/MERGE_MSG
+	*	1658168262	0
+	"	7	0
+	.	14	0
+	+	14	0
+
+> ~/coding/readme.md
+	*	1652214997	0
+	"	56	10
+	^	37	7
+	.	37	6
+	+	12	0
+	+	37	0
+	+	37	1
+	+	37	0
+	+	38	1
+	+	37	0
+	+	38	0
+	+	39	39
+	+	40	0
+	+	39	44
+	+	40	0
+	+	41	19
+	+	42	30
+	+	68	0
+	+	65	0
+	+	64	0
+	+	67	0
+	+	37	6
+
+> ~/readme.md
+	*	1651001063	0
+	"	8	7
+	^	8	9
+	.	8	9
+	+	1	20
+	+	2	32
+	+	2	1
+	+	2	32
+	+	3	0
+	+	3	23
+	+	3	0
+	+	5	0
+	+	3	0
+	+	5	0
+	+	5	12
+	+	5	1
+	+	5	0
+	+	5	15
+	+	5	0
+	+	4	0
+	+	5	26
+	+	8	16
+	+	10	0
+	+	9	4
+	+	8	9
+
+> ~/.vimrc
+	*	1650998778	0
+	"	2	0
+	^	2	13
+	.	2	0
+	+	2	13
+	+	3	0
+	+	2	0
+
+> ~/coding/exercise/vimtest.md
+	*	1650918475	0
+	"	17	0
+	^	17	0
+	.	17	0
+	+	17	0
+
+> ~/coding/ProjectEuler/.git/COMMIT_EDITMSG
+	*	1650806883	0
+	"	3	0
+
+> ~/monokai.terminal
+	*	1650562832	0
+	"	16	64
+	^	235	8
+	.	235	7
+	+	235	7
+
+> ~/coding/freecodecamp/.git/COMMIT_EDITMSG
+	*	1650182345	0
+	"	10	27
+	^	10	28
+	.	11	0
+	+	11	0
